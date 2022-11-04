@@ -1,0 +1,13 @@
+vertices = ['afogados da ingazeira', 'agrestina', 'algodões', 'aliança', 'araripina',
+'arcoverde', 'barreiros', 'belo jardim', 'belém de são francisco', 'bezerros', 'bodocó', 'bom conselho',
+'bom nome', 'buíque', 'cabo de santo agostinho', 'cabrobó', 'cachoeirinha', 'canhotinho',
+'caraibeiras', 'carnaíba', 'carpina', 'caruaru', 'cruzeiro do nordeste', 'cupira', 'custódia', 'exu',
+'flores', 'floresta', 'garanhuns', 'goiana', 'gravatá', 'iati', 'ibimirim', 'igarassu', 'iguaraci', 'inajá',
+'ipojuca', 'itambé', 'itaparica', 'itapetim', 'itaíba', 'jataúba', 'jatobá', 'lagoa grande', 'lajedo',
+'manari', 'mimoso', 'moreilândia', 'nazaré da mata', 'orocó', 'ouricuri', 'palmares', 'panelas', 'parnamirim',
+'paudalho', 'pesqueira', 'petrolina', 'petrolândia', 'pombos', 'quipapá', 'recife', 'rio formoso',
+'rio da barra', 'salgueiro', 'sanharó', 'santa cruz da baixa verde', 'santa cruz do capibaribe',
+'santa maria da boa vista', 'santa terezinha', 'serra talhada', 'serrita', 'sertânia', 'sirinhaém',
+'são caetano', 'são josé da coroa grande', 'são josé do egito', 'sítio dos nunes', 'tabira', 'tacaimbó',
+'tacaratu', 'tamandaré', 'terezinha', 'timbaúba', 'timorante', 'toritama', 'trindade', 'triunfo',
+'tupanatinga', 'tuparetama', 'vitória de santo antão', 'águas belas']
